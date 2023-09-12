@@ -23,9 +23,11 @@ To start using this tool, follow these steps:
 
 To create a PDF, run the following command (in cmd) and follow the instructions:
 
--> python main.py
+-> python document_data.py
 
 Then provide the required data and the PDF will be generated automatically.
+
+The pdf will be saved in data_document_saved (in the same folder).
 
 
 ## Created by Lautajam
