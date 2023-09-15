@@ -30,4 +30,4 @@ Then provide the required data and the PDF will be generated automatically.
 The pdf will be saved in data_document_saved (in the same folder).
 
 
-## Created by Lautajam
+## Created by @lautajam
